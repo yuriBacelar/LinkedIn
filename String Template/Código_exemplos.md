@@ -1,6 +1,6 @@
 # Código de exemplos de String Template
 
-## O resturado esperado ao executar o código abaixo é:
+## O resultado esperado ao executar o código abaixo é:
 
 ![Resultado Esperado](resultado_codigo.jpg)
 
