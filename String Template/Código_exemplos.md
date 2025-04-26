@@ -1,4 +1,10 @@
 # Código de exemplos de String Template
+
+## O resturado esperado ao executar o código abaixo é:
+
+![Resultado Esperado](resultado_codigo.jpg)
+
+## Segue o código:
 ``` abap
 CLASS zcl_test_template_string DEFINITION
   PUBLIC
